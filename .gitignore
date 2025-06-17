@@ -1,0 +1,10 @@
+﻿# Virtual environments
+venv/
+
+# Power BI temp files
+*.log
+*.tmp
+
+# OS artifacts
+Thumbs.db
+.DS_Store
