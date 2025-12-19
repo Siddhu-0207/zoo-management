@@ -4,6 +4,10 @@ A comprehensive Zoo Management system using **MySQL** for relational data and **
 
 ---
 
+![WhatsApp Image 2025-12-18 at 7 05 45 PM](https://github.com/user-attachments/assets/1334442c-ea3d-454f-bad6-627be8286c48)
+![WhatsApp Image 2025-12-18 at 7 05 44 PM](https://github.com/user-attachments/assets/ef0a8878-90e7-482f-aeea-c5c0270151fa)
+
+
 ## 📊 Dashboard Highlights
 
 - Interactive slicers for species, enclosures, and conservation status  
