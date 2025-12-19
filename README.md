@@ -1,4 +1,4 @@
-# 🦁 Zoo Management – SQL & Power BI Project
+#  Zoo Management – SQL & Power BI Project
 
 A comprehensive Zoo Management system using **MySQL** for relational data and **Power BI** for dynamic data visualization.
 
